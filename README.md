@@ -1,6 +1,9 @@
 # Multi-Branch-Fusion-Model
 Computer-Aided Intracranial EEG Signal Identification Method Based on a Multi-Branch Deep Learning Fusion Model and Clinical Validation
 
+Two branches: one is feature extraction after signal processing, then identifies ieeg signals; 
+
+the other is automatic feature extraction by deep learning.
 
 Two publicly available benchmark iEEG databases.
 
